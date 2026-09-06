@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Overnight Brief</title>
+<link>https://rohitkaulcoder.github.io/ob-x7k2qm9wf4/</link>
+<language>en</language>
+<description>A private daily audio digest of the strongest insights from the overnight newsletters. Built for one listener.</description>
+<itunes:author>Rohit</itunes:author>
+<itunes:summary>A private daily audio digest of the strongest insights from the overnight newsletters.</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="News"/>
+<itunes:owner><itunes:name>Rohit</itunes:name><itunes:email>rohit@rohitkaul.com</itunes:email></itunes:owner>
+<item><title>Ep 2 (Two-Host Edition): Astra's Hidden Loops, Nvidia Buys the Stadium, and the End of the Cook Era</title><description>The new format: two hosts, one conversation. OpenAI's Astra and the recurrent depth rumor, Anthropic's three-act week, Nvidia's $12.9B Hugging Face deal, Tim Cook hands Apple to John Ternus, a loaded India package, ShieldFont vs the scrapers, Qualcomm's 40 AI devices, and the a16z charts that matter.</description><pubDate>Sun, 06 Sep 2026 23:36:00 +0530</pubDate><enclosure url="https://rohitkaulcoder.github.io/ob-x7k2qm9wf4/episodes/ep002.mp3" length="7376493" type="audio/mpeg"/><guid isPermaLink="false">overnight-brief-ep002</guid><itunes:duration>15:22</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+<item><title>Ep 1 (Demo): Astra's Hidden Loops, Anthropic's Reality Check, and the End of the Cook Era</title><description>The original demo: single-host brief from the Friday night newsletters.</description><pubDate>Sun, 06 Sep 2026 23:16:00 +0530</pubDate><enclosure url="https://rohitkaulcoder.github.io/ob-x7k2qm9wf4/episodes/ep001.mp3" length="5374317" type="audio/mpeg"/><guid isPermaLink="false">overnight-brief-ep001</guid><itunes:duration>11:12</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+</channel>
+</rss>
